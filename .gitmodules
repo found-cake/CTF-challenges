@@ -1,0 +1,6 @@
+[submodule "2025 YISF/SessionRecipe"]
+	path = 2025 YISF/SessionRecipe
+	url = https://github.com/found-cake/lolctf
+[submodule "2025 YISF/제임스의 유럽여행"]
+	path = 2025 YISF/제임스의 유럽여행
+	url = https://github.com/found-cake/misc-protocolbuf
