@@ -19,3 +19,12 @@
 [submodule "2026 SecurityFirst 연초/MISC/DifferentReadingMethods"]
 	path = 2026 SecurityFirst 연초/MISC/DifferentReadingMethods
 	url = https://github.com/found-cake/CrossandDownReading
+[submodule "2026 SecurityFirst 연초/WEB/;==;"]
+	path = "2026 SecurityFirst 연초/WEB/;==;"
+	url = https://github.com/found-cake/php-equals
+[submodule "2026 SecurityFirst 연초/WEB/HelloGopher"]
+	path = 2026 SecurityFirst 연초/WEB/HelloGopher
+	url = https://github.com/found-cake/hellogopher
+[submodule "2026 SecurityFirst 연초/WEB/AdminPortal"]
+	path = 2026 SecurityFirst 연초/WEB/AdminPortal
+	url = https://github.com/found-cake/ctf-AdminPanel
